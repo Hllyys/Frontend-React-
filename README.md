@@ -1,12 +1,10 @@
 Özellikler:
 
-🔹 Backend (Node.js / Express): API proxy, cache, hata yönetimi
-
 🔹 Frontend (React + TypeScript + Vite): Modern arayüz, kullanıcı dostu tasarım
 
 🔹 Users ve Posts sayfaları
 
-🔹 Anasayfadan butonlarla sayfalara yönl
+🔹 Anasayfadan butonlarla sayfalara yönlendirme
 
 
 🧭 Kullanım
@@ -21,13 +19,10 @@ Backend API üzerinden veriler alınır ve frontend’de listelenir.
 
 	
 🛠️ Kullanılan Teknolojiler
-🔹 Backend
-
-Node.js + Express
 
 Axios (JSONPlaceholder API için)
 
-Cache (memory / Redis opsiyonel)
+
 
 🔹 Frontend
 
